@@ -1,0 +1,43 @@
+[colors]
+
+# special
+foreground      = #a4d0bf
+foreground_bold = #a4d0bf
+cursor          = #a4d0bf
+background      = #0c1210
+background = rgba(12, 18, 16, 0.96)
+
+# black
+color0  = #151d1a
+color8  = #41a1bb
+
+# red
+color1  = #1c2722
+color9  = #f6afd1
+
+# green
+color2  = #2a3833
+color10 = #b1c864
+
+# yellow
+color3  = #3e5049
+color11 = #39a887
+
+# blue
+color4  = #566f65
+color12 = #e998c0
+
+# magenta
+color5  = #749387
+color13 = #ec76b4
+
+# cyan
+color6  = #95bdae
+color14 = #42a4be
+
+# white
+color7  = #bdedda
+color15 = #98b03a
+
+[options]
+font = Ubuntu Mono 10.5
